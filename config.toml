@@ -1,4 +1,4 @@
-baseURL = "https://gerardokaztro.com/"
+baseURL = "https://kaztro.cloud/"
 languageCode = "en"
 title = "AWS Security LATAM"
 theme = "hugo-initio"
@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
     name = ""
     description = ""
-    address = "Desde Perú y Argentina para LATAM y Españaa"
+    address = "Desde Perú para LATAM"
     year = 2021
     avatar = ""
     avatarclass = ""
@@ -34,31 +34,31 @@ publishDir = "docs"
     weight = 1
 [[menu.main]]
     name = "Acerca de mí"
-    url = "/acerca/"
+    url = "/acerca"
     weight = 2
 [[menu.main]]
     name = "cursos"
-    url = "/cursos/"
+    url = "/cursos"
     weight = 3
 [[menu.main]]
     name = "podcast"
-    url = "https://awssecuritylatam.buzzsprout.com/"
+    url = "https://awssecuritylatam.buzzsprout.com"
     weight = 4
 [[menu.main]]
     name = "blogs"
-    url = "/blogs/"
+    url = "/blogs"
     weight = 5
 [[menu.main]]
     name = "libros"
-    url = "/libros/"
+    url = "/libros"
     weight = 6
 [[menu.main]]
     name = "Conferencia"
-    url = "/conferencias/"
+    url = "/conferencias"
     weight = 7
 
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+    site = "gerardokaztro.disqus.com"
 
 [params.sharethis]
     property = "123456789012345678901234"

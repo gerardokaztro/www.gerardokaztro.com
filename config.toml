@@ -1,0 +1,118 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en"
+title = "AWS Security LATAM"
+theme = "hugo-initio"
+publishDir = "docs"
+
+[params]
+    name = ""
+    description = ""
+    address = "Desde Perú y Argentina para LATAM y Españaa"
+    year = 2021
+    avatar = ""
+    avatarclass = ""
+    background = ""
+    banner = "images/banner-purple_team.png"
+    favicon = "images/gt_favicon.png"
+    DateForm = "April 2, 2021"
+    author = "Gerardo Castro (gerardokaztro.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    footerEnableContact = false
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Acerca de mí"
+    url = "/acerca/"
+    weight = 2
+[[menu.main]]
+    name = "cursos"
+    url = "/cursos/"
+    weight = 3
+[[menu.main]]
+    name = "podcast"
+    url = "https://awssecuritylatam.buzzsprout.com/"
+    weight = 4
+[[menu.main]]
+    name = "blogs"
+    url = "/blogs/"
+    weight = 5
+[[menu.main]]
+    name = "libros"
+    url = "/libros/"
+    weight = 6
+[[menu.main]]
+    name = "Conferencia"
+    url = "/conferencias/"
+    weight = 7
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "G-Z2CBVK0BS5"
+
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/awssecuritylatam"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = true
+    network = "instagram"
+[[params.social]]
+	title = "youtube"
+	url = "https://www.youtube.com/channel/UCVWjwOiJGog7Km90-ayFESg"
+    icon = "fab fa-youtube"
+    footer = true
+    sharethis = true
+    network = "youtube"
+[[params.social]]
+	title = "twitch"
+	url = "https://www.twitch.tv/awssecuritylatam"
+    icon = "fab fa-twitch"
+    footer = true
+    sharethis = true
+    network = "twitch"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/gerardokaztro"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/gerardokaztro"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "blog"
+	url = "https://medium.com/@gerardokaztro"
+    icon = "fab fa-medium"
+    footer = true
+    sharethis = true
+    network = "medium"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/gerardokaztro"
+    icon = "fab fa-github"
+    footer = false
+    sharethis = false
+    network = "github"

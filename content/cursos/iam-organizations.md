@@ -11,3 +11,5 @@ Administra el acceso a los recursos y servicios a medida que escalan con AWS Ide
 <!--more-->
 
 A medida que una arquitectura cloud crece, se aumentan servicios y recursos es imprescindible tener control sobre las cuentas, los permisos, roles y accesos de los usuarios para que sepan qué pueden y no pueden hacer y donde. Identity and Access Management se encarga de la gestión de los permisos y roles mientras que Organizations permite administrar un entorno multicuentas. En este curso aprenderás como elaborar una estrategia multicuenta, consolidar una facturación entre todas ellas y las mejores prácticas para definir políticas de acceso a los usuarios.
+
+Te invito a tomar mi curso en [aquí](https://ed.team/cursos/iam), la primera clase es gratis 🔥

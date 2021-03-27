@@ -3,14 +3,14 @@
         "id": 0,
         "name": "Tutoriales de Seguridad en AWS",
         "image": "images/tutoriales.png",
-        "url": "#",
+        "url": "https://www.youtube.com/channel/UCVWjwOiJGog7Km90-ayFESg/playlists",
         "items": []
     },
     {
         "id": 1,
         "name": "Boletines de Seguridad",
         "image": "images/boletines.png",
-        "url": "#",
+        "url": "https://youtube.com/playlist?list=PL61-EPhAJHfC6SpMfLCxCfL0SM0O2mgRp",
         "items": []
     },
     {
@@ -38,7 +38,7 @@
         "id": 5,
         "name": "Novedades Seguras en AWS",
         "image": "images/novedades.png",
-        "url": "#",
+        "url": "https://youtube.com/playlist?list=PL61-EPhAJHfDQq9zahLa0djN-jVT3X3G_",
         "items": []
     }
 ]

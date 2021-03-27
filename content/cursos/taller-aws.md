@@ -11,3 +11,5 @@ Aprenderás cómo desplegar una de arquitectura básica altamente disponible, to
 <!--more-->
 
 Envía requerimientos y saca provecho del almacenamiento de AWS. Aprende a configurar una estructura básica para un sitio web mediano: un servidor o un dominio.
+
+Te invito a tomar mi curso en [aquí](https://ed.team/cursos/arquitectura-aws), la primera clase es gratis 🔥

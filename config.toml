@@ -9,12 +9,12 @@ publishDir = "docs"
     description = ""
     email = ""
     phone = ""
-    address = "Desde Perú para LATAM"
+    address = "Desde Perú para 🌎"
     year = 2021
     avatar = ""
     avatarclass = ""
     background = ""
-    banner = "images/banner-purple_team.png"
+    banner = "images/banner.jpg"
     favicon = "images/gt_favicon.png"
     DateForm = "April 2, 2021"
     author = "Gerardo Castro (gerardokaztro.com)"
@@ -67,7 +67,7 @@ publishDir = "docs"
     custom = true
 
 [params.google.analytics]
-    trackerID = "G-Z2CBVK0BS5"
+    trackerID = "G-XZ85QB1EPN"
 
 [[params.social]]
 	title = "instagram"

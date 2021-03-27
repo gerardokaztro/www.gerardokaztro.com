@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suscríbete on AWS Security LATAM</title>
-    <link>http://localhost:1313/home/downloads/</link>
+    <link>https://gerardokaztro.com/home/downloads/</link>
     <description>Recent content in Suscríbete on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://localhost:1313/home/downloads/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gerardokaztro.com/home/downloads/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Únete a nuestro slack</title>
-      <link>http://localhost:1313/home/downloads/download1/</link>
+      <link>https://gerardokaztro.com/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/downloads/download1/</guid>
+      <guid>https://gerardokaztro.com/home/downloads/download1/</guid>
       <description>Te invitamos a formar parte de nuestro workspace en Slack, donde podras usar los siguientes canales:
 #general, aquí podrás presentarte a ti mismo, contarnos acerca de tus skills y lo que creas conveniente para conocernos entre todos.
 Usa #random si tienes algun meme o noticia graciosa de AWS. No esta permitido algun tipo de publicacion con contenido fuera de lugar, consideramos fundamental conservar la empatia y respeto hacia los demas como parte de una comunidad sana</description>

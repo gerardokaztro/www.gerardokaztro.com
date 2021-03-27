@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos on AWS Security LATAM</title>
-    <link>http://localhost:1313/cursos/</link>
+    <link>https://gerardokaztro.com/cursos/</link>
     <description>Recent content in Cursos on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://localhost:1313/cursos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gerardokaztro.com/cursos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fundamentos de AWS</title>
-      <link>http://localhost:1313/cursos/fundamentos-aws/</link>
+      <link>https://gerardokaztro.com/cursos/fundamentos-aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cursos/fundamentos-aws/</guid>
+      <guid>https://gerardokaztro.com/cursos/fundamentos-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Conviértete en un Arquitecto Cloud dominando el Cloud Provider líder por +10 años consecutivos.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Taller de arquitectura AWS</title>
-      <link>http://localhost:1313/cursos/taller-aws/</link>
+      <link>https://gerardokaztro.com/cursos/taller-aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cursos/taller-aws/</guid>
+      <guid>https://gerardokaztro.com/cursos/taller-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Aprenderás cómo desplegar una de arquitectura básica altamente disponible, tolerante a fallos y escalable en AWS.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>IAM y AWS Organizations</title>
-      <link>http://localhost:1313/cursos/iam-organizations/</link>
+      <link>https://gerardokaztro.com/cursos/iam-organizations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cursos/iam-organizations/</guid>
+      <guid>https://gerardokaztro.com/cursos/iam-organizations/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Administra el acceso a los recursos y servicios a medida que escalan con AWS Identity and Access Management (IAM).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Amazon S3 (Simple Storage Service)</title>
-      <link>http://localhost:1313/cursos/s3/</link>
+      <link>https://gerardokaztro.com/cursos/s3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/cursos/s3/</guid>
+      <guid>https://gerardokaztro.com/cursos/s3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Aprende a almacenar, administrar y asegurar los datos en con S3, el servicio que usan Netflix, Dropbox y Spotify.&lt;/p&gt;</description>
     </item>

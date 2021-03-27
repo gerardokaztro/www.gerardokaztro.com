@@ -1,6 +1,6 @@
 +++
 title = "IAM y AWS Organizations"
-url = "/cursos/iam-organizations"
+url = "/iam-organizations"
 weight = 13
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Taller de arquitectura AWS"
-url = "/cursos/taller-aws"
+url = "/taller-aws"
 weight = 12
 +++
 
@@ -10,4 +10,4 @@ Aprenderás cómo desplegar una de arquitectura básica altamente disponible, to
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Envía requerimientos y saca provecho del almacenamiento de AWS. Aprende a configurar una estructura básica para un sitio web mediano: un servidor o un dominio.

@@ -3,79 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kaztro.cloud/home/recentworks/</loc>
+    <loc>https://www.gerardokaztro.com/home/recentworks/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/</loc>
+    <loc>https://www.gerardokaztro.com/home/cursos/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/cursos/</loc>
+    <loc>https://www.gerardokaztro.com/fundamentos-aws/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/fundamentos-aws/</loc>
+    <loc>https://www.gerardokaztro.com/fundamentos-aws/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/fundamentos-aws/</loc>
+    <loc>https://www.gerardokaztro.com/taller-aws/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/taller-aws/</loc>
+    <loc>https://www.gerardokaztro.com/taller-aws/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/taller-aws/</loc>
+    <loc>https://www.gerardokaztro.com/iam-organizations/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/iam-organizations/</loc>
+    <loc>https://www.gerardokaztro.com/iam-organizations/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/iam-organizations/</loc>
+    <loc>https://www.gerardokaztro.com/s3/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/s3/</loc>
+    <loc>https://www.gerardokaztro.com/s3/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/cursos/s3/</loc>
+    <loc>https://www.gerardokaztro.com/home/downloads/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/downloads/</loc>
+    <loc>https://www.gerardokaztro.com/home/downloads/download1/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/downloads/download1/</loc>
+    <loc>https://www.gerardokaztro.com/home/clients/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/clients/</loc>
+    <loc>https://www.gerardokaztro.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/</loc>
+    <loc>https://www.gerardokaztro.com/blogs/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/categories/</loc>
+    <loc>https://www.gerardokaztro.com/libros/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/subheader/</loc>
+    <loc>https://www.gerardokaztro.com/conferencias/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/home/</loc>
+    <loc>https://www.gerardokaztro.com/</loc>
   </url>
   
   <url>
-    <loc>https://kaztro.cloud/tags/</loc>
+    <loc>https://www.gerardokaztro.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gerardokaztro.com/cursos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gerardokaztro.com/home/subheader/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gerardokaztro.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gerardokaztro.com/tags/</loc>
   </url>
   
 </urlset>

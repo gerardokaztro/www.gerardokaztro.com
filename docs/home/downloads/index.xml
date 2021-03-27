@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suscríbete on AWS Security LATAM</title>
-    <link>https://kaztro.cloud/home/downloads/</link>
+    <link>https://www.gerardokaztro.com/home/downloads/</link>
     <description>Recent content in Suscríbete on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://kaztro.cloud/home/downloads/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gerardokaztro.com/home/downloads/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Únete a nuestro slack</title>
-      <link>https://kaztro.cloud/home/downloads/download1/</link>
+      <link>https://www.gerardokaztro.com/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kaztro.cloud/home/downloads/download1/</guid>
+      <guid>https://www.gerardokaztro.com/home/downloads/download1/</guid>
       <description>Te invitamos a formar parte de la 1ra comunidad de Seguridad en AWS en Latinoamérica, donde podrás compartir tu experiencia en este ámbito, aprender y participar de futuros contenidos y eventos que iremos anunciando.</description>
     </item>
     

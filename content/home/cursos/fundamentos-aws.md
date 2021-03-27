@@ -1,6 +1,6 @@
 +++
 title = "Fundamentos de AWS"
-url = "/cursos/fundamentos-aws"
+url = "/fundamentos-aws"
 weight = 11
 +++
 

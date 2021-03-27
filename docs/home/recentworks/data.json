@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "name": "Tutoriales de Seguridad en AWS",
+        "image": "images/tutoriales.png",
+        "url": "#",
+        "items": []
+    },
+    {
+        "id": 1,
+        "name": "Boletines de Seguridad",
+        "image": "images/boletines.png",
+        "url": "#",
+        "items": []
+    },
+    {
+        "id": 2,
+        "name": "¿Qué es un AWS GameDay? 🤔",
+        "image": "images/awsgameday.jpg",
+        "url": "https://youtu.be/lWs3g1j9hAQ",
+        "items": []
+    },
+    {
+        "id": 3,
+        "name": "Tipos de AWS GameDay",
+        "image": "images/tiposgameday.jpg",
+        "url": "https://youtu.be/rEp6IWjVXrQ",
+        "items": []
+    },
+    {
+        "id": 4,
+        "name": "AWS Security GameDay",
+        "image": "images/securitygameday.jpg",
+        "url": "https://youtu.be/GhM0Aa_DfXY",
+        "items": []
+    },
+    {
+        "id": 5,
+        "name": "Novedades Seguras en AWS",
+        "image": "images/novedades.png",
+        "url": "#",
+        "items": []
+    }
+]

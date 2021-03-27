@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Security LATAM</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on AWS Security LATAM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fundamentos de AWS</title>
+      <link>http://localhost:1313/cursos/fundamentos-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/fundamentos-aws/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Conviértete en un Arquitecto Cloud dominando el Cloud Provider líder por +10 años consecutivos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de AWS</title>
+      <link>http://localhost:1313/cursos/fundamentos-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/fundamentos-aws/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Conviértete en un Arquitecto Cloud dominando el Cloud Provider líder por +10 años consecutivos.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Taller de arquitectura AWS</title>
+      <link>http://localhost:1313/cursos/taller-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/taller-aws/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aprenderás cómo desplegar una de arquitectura básica altamente disponible, tolerante a fallos y escalable en AWS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Taller de arquitectura AWS</title>
+      <link>http://localhost:1313/cursos/taller-aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/taller-aws/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aprenderás cómo desplegar una de arquitectura básica altamente disponible, tolerante a fallos y escalable en AWS.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IAM y AWS Organizations</title>
+      <link>http://localhost:1313/cursos/iam-organizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/iam-organizations/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Administra el acceso a los recursos y servicios a medida que escalan con AWS Identity and Access Management (IAM).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IAM y AWS Organizations</title>
+      <link>http://localhost:1313/cursos/iam-organizations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/iam-organizations/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Administra el acceso a los recursos y servicios a medida que escalan con AWS Identity and Access Management (IAM).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 (Simple Storage Service)</title>
+      <link>http://localhost:1313/cursos/s3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/s3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aprende a almacenar, administrar y asegurar los datos en con S3, el servicio que usan Netflix, Dropbox y Spotify.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Amazon S3 (Simple Storage Service)</title>
+      <link>http://localhost:1313/cursos/s3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/cursos/s3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Aprende a almacenar, administrar y asegurar los datos en con S3, el servicio que usan Netflix, Dropbox y Spotify.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Únete a nuestro slack</title>
+      <link>http://localhost:1313/home/downloads/download1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/downloads/download1/</guid>
+      <description>Te invitamos a formar parte de nuestro workspace en Slack, donde podras usar los siguientes canales:
+#general, aquí podrás presentarte a ti mismo, contarnos acerca de tus skills y lo que creas conveniente para conocernos entre todos.
+Usa #random si tienes algun meme o noticia graciosa de AWS. No esta permitido algun tipo de publicacion con contenido fuera de lugar, consideramos fundamental conservar la empatia y respeto hacia los demas como parte de una comunidad sana</description>
+    </item>
+    
+    <item>
+      <title>hola</title>
+      <link>http://localhost:1313/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/home/subheader/</guid>
+      <description>Hola a todos! 🙌🐱‍👤
+Quiero darles la bienvenida a mi sitio web. Aquí podrás encontrar todo el contenido relacionado a Seguridad en AWS que frecuentemente estoy elaborando para ustedes a través de conferencias, workshops, demos, blogs, podcast, cursos y muchos más.
+Mi objetivo es poder enseñarles a traves de diferentes métodos, como estar seguro en la nube de AWS y mantener nuestros recursos protegidos de acciones malintencionadas, a través de diferentes procesos de seguridad que podemos implementar en AWS, como: Data Security, Serverless Security, Application Security, Container Security,Network Security, Threat Detection e Incident Response.</description>
+    </item>
+    
+  </channel>
+</rss>

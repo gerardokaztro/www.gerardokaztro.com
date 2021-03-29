@@ -1,4 +1,4 @@
-baseURL = "https://www.gerardokaztro.com/"
+baseURL = "https://www.gerardokaztro.com"
 languageCode = "en"
 title = "AWS Security LATAM"
 theme = "hugo-initio"
@@ -67,7 +67,7 @@ publishDir = "docs"
     custom = true
 
 [params.google.analytics]
-    trackerID = "G-XZ85QB1EPN"
+    trackerID = "G-8LLGW28JTW"
 
 [[params.social]]
 	title = "instagram"

@@ -78,7 +78,7 @@ publishDir = "docs"
     network = "instagram"
 [[params.social]]
 	title = "youtube"
-	url = "https://www.youtube.com/channel/UCVWjwOiJGog7Km90-ayFESg"
+	url = "https://bit.ly/AWSSecurityLATAM"
     icon = "fab fa-youtube"
     footer = true
     sharethis = true
@@ -106,7 +106,7 @@ publishDir = "docs"
     network = "twitter"
 [[params.social]]
 	title = "blog"
-	url = "https://medium.com/@gerardokaztro"
+	url = "https://bit.ly/MediumGerardokaztro"
     icon = "fab fa-medium"
     footer = false
     sharethis = true

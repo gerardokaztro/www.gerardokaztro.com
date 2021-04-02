@@ -1,4 +1,5 @@
 +++
+date = "2021-03-27"
 title = "Taller de arquitectura AWS"
 url = "/taller-aws"
 weight = 12

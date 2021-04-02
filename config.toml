@@ -16,7 +16,7 @@ publishDir = "docs"
     background = ""
     banner = "images/banner.jpg"
     favicon = "images/gt_favicon.png"
-    DateForm = "April 2, 2021"
+    DateForm = "January 2, 2006"
     author = "Gerardo Castro (gerardokaztro.com)"
 
     showSubheader = true
@@ -67,7 +67,7 @@ publishDir = "docs"
     custom = true
 
 [params.google.analytics]
-    trackerID = "G-8LLGW28JTW"
+    trackerID = "UA-192920482-1"
 
 [[params.social]]
 	title = "instagram"
@@ -108,7 +108,7 @@ publishDir = "docs"
 	title = "blog"
 	url = "https://bit.ly/MediumGerardokaztro"
     icon = "fab fa-medium"
-    footer = false
+    footer = true
     sharethis = true
     network = "medium"
 [[params.social]]
@@ -116,5 +116,12 @@ publishDir = "docs"
 	url = "https://github.com/gerardokaztro"
     icon = "fab fa-github"
     footer = true
-    sharethis = false
+    sharethis = true
     network = "github"
+[[params.social]]
+	title = "Devto"
+	url = "https://bit.ly/DevtoGerardokaztro"
+    icon = "fab fa-dev"
+    footer = true
+    sharethis = true
+    network = "devto"

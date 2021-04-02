@@ -6,6 +6,7 @@
     <description>Recent content in Cursos on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gerardokaztro.com/home/cursos/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Fundamentos de AWS</title>
       <link>https://www.gerardokaztro.com/fundamentos-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/fundamentos-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
@@ -23,7 +24,7 @@
     <item>
       <title>Taller de arquitectura AWS</title>
       <link>https://www.gerardokaztro.com/taller-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/taller-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
@@ -33,7 +34,7 @@
     <item>
       <title>IAM y AWS Organizations</title>
       <link>https://www.gerardokaztro.com/iam-organizations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/iam-organizations/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
@@ -43,7 +44,7 @@
     <item>
       <title>Amazon S3 (Simple Storage Service)</title>
       <link>https://www.gerardokaztro.com/s3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/s3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;

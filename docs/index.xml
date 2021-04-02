@@ -6,6 +6,7 @@
     <description>Recent content on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gerardokaztro.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +14,7 @@
     <item>
       <title>Fundamentos de AWS</title>
       <link>https://www.gerardokaztro.com/fundamentos-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/fundamentos-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
@@ -23,7 +24,7 @@
     <item>
       <title>Fundamentos de AWS</title>
       <link>https://www.gerardokaztro.com/fundamentos-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/fundamentos-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/fundamentosaws.jpg&#34; alt=&#34;Fundamentos de AWS&#34;&gt;&lt;/p&gt;
@@ -33,7 +34,7 @@
     <item>
       <title>Taller de arquitectura AWS</title>
       <link>https://www.gerardokaztro.com/taller-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/taller-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
@@ -43,7 +44,7 @@
     <item>
       <title>Taller de arquitectura AWS</title>
       <link>https://www.gerardokaztro.com/taller-aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/taller-aws/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/talleraws.png&#34; alt=&#34;Taller de AWS&#34;&gt;&lt;/p&gt;
@@ -53,7 +54,7 @@
     <item>
       <title>IAM y AWS Organizations</title>
       <link>https://www.gerardokaztro.com/iam-organizations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/iam-organizations/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
@@ -63,7 +64,7 @@
     <item>
       <title>IAM y AWS Organizations</title>
       <link>https://www.gerardokaztro.com/iam-organizations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/iam-organizations/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/iamorganizations.png&#34; alt=&#34;iam-organization&#34;&gt;&lt;/p&gt;
@@ -73,7 +74,7 @@
     <item>
       <title>Amazon S3 (Simple Storage Service)</title>
       <link>https://www.gerardokaztro.com/s3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/s3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;
@@ -83,7 +84,7 @@
     <item>
       <title>Amazon S3 (Simple Storage Service)</title>
       <link>https://www.gerardokaztro.com/s3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/s3/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../images/s3.png&#34; alt=&#34;S3&#34;&gt;&lt;/p&gt;
@@ -102,7 +103,7 @@
     <item>
       <title>Acerca de mí</title>
       <link>https://www.gerardokaztro.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/about/</guid>
       <description>Hola 😁 Soy Gerardo Castro, y solo tengo palabras de agradecimiento hacia tí, por darte el tiempo de visitar mi página web, aquí encontrarás todo tipo de contenido como video series, tutoriales, blogs, podcast y muchísimas otras formas con el objetivo de evangelizar todo lo relacionado a Seguridad en AWS
@@ -110,14 +111,15 @@ Pero&amp;hellip;¿Quién soy? No voy a mencionar acerca de mis &amp;ldquo;laurel
     </item>
     
     <item>
-      <title>Mis BlogPost mas recientes</title>
+      <title>Mis BlogPost ✍</title>
       <link>https://www.gerardokaztro.com/blogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/blogs/</guid>
-      <description>Actualmente, me encuento escribiendo blogs técnicos, de opinión, y reacción acerca de Seguridad en AWS. Te invito a leer mis próximos nuevos blogs que estare publicando en mis perfiles de Dev y Medium.
+      <description>Hola 👋.
+Actualmente, me encuento escribiendo blogs técnicos, de opinión, y reacción acerca de Seguridad en AWS. Te invito a leer mis próximos nuevos blogs que estare publicando en mis perfiles de Dev y Medium.
 Tambien te invito a reaccionar y comentar los blogs que consideres interantes, sobre todo el que puedas compartirlos, muchas gracias!
-Inicializando AWS CloudShell 1/3 Esta es una serie de 3 blogs donde nos adentraremos en AWS CloudShell. En esta primera publicación te contaré una breve introducción y un inicio rápido.</description>
+Inicializando AWS CloudShell 3/3 Esta es una serie de 3 blogs donde nos adentraremos en AWS CloudShell.</description>
     </item>
     
     <item>
@@ -130,13 +132,14 @@ Inicializando AWS CloudShell 1/3 Esta es una serie de 3 blogs donde nos adentrar
     </item>
     
     <item>
-      <title>Mis Charlas</title>
+      <title>Mis Charlas 💬</title>
       <link>https://www.gerardokaztro.com/conferencias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.gerardokaztro.com/conferencias/</guid>
-      <description>Hola, me encantaría poder colaborar contigo generando contenido AWS, por lo que si estas buscando algun speaker para tu AWS User Group, Comunidad, Organización, Canal, etc. Solo debes escribirme por directo a mi perfil en LinkedIn
-Detección y respuesta de ataques maliciosos con AWS GuardDuty Fui invitado por el AWS UG Panamá liderado por Victor Pereira y Hernan Piña, donde pude compartir acerca de lo fácil que es usar AWS GuardDuty para detectar ataques maliciosos en tus cargas de trabajo en AWS.</description>
+      <description>Hola 👋, me encantaría poder colaborar contigo generando contenido AWS, por lo que si estas buscando algun speaker para tu AWS User Group, Comunidad, Organización, Canal, etc. Solo debes escribirme por directo a mi perfil en LinkedIn, y manos a la obra! 🔥
+A continuación, una serie de las distintas colaboraciones que he podido ofrecer desde el 2020.
+🎙Detección y respuesta de ataques maliciosos con Amazon GuardDuty Fui invitado por el AWS UG Panamá liderado por Victor Pereira y Hernan Piña, donde pude compartir acerca de lo fácil que es usar AWS GuardDuty para detectar ataques maliciosos en tus cargas de trabajo en AWS.</description>
     </item>
     
     <item>
@@ -147,7 +150,7 @@ Detección y respuesta de ataques maliciosos con AWS GuardDuty Fui invitado por 
       <guid>https://www.gerardokaztro.com/home/subheader/</guid>
       <description>Hola a todos! 🙌🐱‍👤
 Quiero darles la bienvenida a mi sitio web. Aquí podrás encontrar todo el contenido relacionado a Seguridad en AWS que frecuentemente estoy elaborando para ustedes a través de conferencias, workshops, demos, blogs, podcast, cursos y muchos más.
-Mi objetivo es poder enseñarles a traves de diferentes métodos, como estar seguro en la nube de AWS y mantener nuestros recursos protegidos de acciones malintencionadas, a través de diferentes procesos de seguridad que podemos implementar en AWS, como: Data Security, Serverless Security, Application Security, Container Security,Network Security, Threat Detection e Incident Response.</description>
+Mi objetivo es poder enseñarles a traves de diferentes métodos, como estar seguro en la nube de AWS y mantener nuestros recursos protegidos de acciones malintencionadas, a través de diferentes procesos de seguridad que podemos implementar en AWS, como: Data Security, Serverless Security, Application Security, Container Security, Network Security, Threat Detection e Incident Response.</description>
     </item>
     
   </channel>

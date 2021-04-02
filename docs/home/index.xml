@@ -6,6 +6,7 @@
     <description>Recent content in Homes on AWS Security LATAM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gerardokaztro.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +19,7 @@
       <guid>https://www.gerardokaztro.com/home/subheader/</guid>
       <description>Hola a todos! 🙌🐱‍👤
 Quiero darles la bienvenida a mi sitio web. Aquí podrás encontrar todo el contenido relacionado a Seguridad en AWS que frecuentemente estoy elaborando para ustedes a través de conferencias, workshops, demos, blogs, podcast, cursos y muchos más.
-Mi objetivo es poder enseñarles a traves de diferentes métodos, como estar seguro en la nube de AWS y mantener nuestros recursos protegidos de acciones malintencionadas, a través de diferentes procesos de seguridad que podemos implementar en AWS, como: Data Security, Serverless Security, Application Security, Container Security,Network Security, Threat Detection e Incident Response.</description>
+Mi objetivo es poder enseñarles a traves de diferentes métodos, como estar seguro en la nube de AWS y mantener nuestros recursos protegidos de acciones malintencionadas, a través de diferentes procesos de seguridad que podemos implementar en AWS, como: Data Security, Serverless Security, Application Security, Container Security, Network Security, Threat Detection e Incident Response.</description>
     </item>
     
   </channel>
